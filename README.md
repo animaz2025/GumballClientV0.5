@@ -1,33 +1,25 @@
 <div align="center">
   <!-- Logo and Title -->
-  <img src="https://raw.githubusercontent.com/GumballGardas/Numby-hack/main/src/main/resources/assets/numby-hack/textures/icon.png" alt="logo" width="20%"/>
-  <h1>GumballClient</h1>
-  <p>A simple Meteor addon focused on giving users more customization options. Made in honor of Number81.</p>
+  <img src="textures/icon.png" alt="logo" width="28%"/>
+  <p>GumballClient is a nice addon(plugin) that adds paid and special modules to Meteor Client. The best part is that it's free and you don't need to delete Meteor Client, so all your settings will not be deleted and remain.Made by GumballGardas</p>
 
-  <!-- Fancy badges -->
-<a href="https://github.com/GumballGardas/Numby-hack/releases"><img src="https://img.shields.io/badge/Version-v2.2-green" alt="Version"></a>
-<a href="https://anticope.ml/addons/?"><img src="https://img.shields.io/badge/Verified-Yes!-green" alt="Verified"></a>
-<img src="https://img.shields.io/badge/Minecraft%20Version-1.21-green" alt="Minecraft Version">
-<img src="https://img.shields.io/github/downloads/GumballGardas/Numby-hack/total?color=green">
-<img src="https://img.shields.io/github/languages/code-size/GumballGardas/Numby-hack?color=green" alt="Code Size">
-<img src="https://img.shields.io/github/stars/GumballGardas/Numby-hack?color=green" alt="Stars">
 
 <p>Join for support<p>
-<a href="https://discord.gg/TtmQs7BzPJ"><img src="https://invidget.switchblade.xyz/TtmQs7BzPJ"></a>
+<a href="https://discord.gg/RRcCtwvxY7"><img src="https://invidget.switchblade.xyz/RRcCtwvxY7"></a>
 
 </div>
 
 <hr />
 
 # How to use
-- Download the latest [release](/../../releases) of this mod from the releases tab.
+- Download `GumballClientV0.4.jar` by joining our [Discord server](https://discord.gg/RRcCtwvxY7) or from the [Anticope Meteor Addons](https://anticope.pages.dev/addons/?).
 - Put it in your `.minecraft/mods` folder where you have installed Meteor.
 
-*Note: Meteor Client is required for this addon*
 [README.md](README.md)
 <h1>Modules:</h1>
 <h2>General:</h2>
 <pre>
+AutoEZ           || Automatically sends a toxic message when you kill someone.
 Auto Log Plus    || Automatically disconnects you when a specific condition is met
 Better Place     || Allows you to place blocks in weird ways
 Bayblade         || People see you spin.
@@ -38,14 +30,13 @@ Confetti         || Changes the color of totem pop particles
 FloRida          || Makes you spin and look cool
 Game Settings    || Allows you to change some game settings
 God Bridge       || Positions you in the best way for bridging
+GumballClient    || Sends messages like "GumballClient on top!" to the chat
 Ignore Deaths    || Ignores death messages from specific players
 Jump Helper      || Shows how far you can jump
+KillAuraPlus     || KillAura but Legit and Better
 Log Out Spots    || Shows where a player has logged out
 New Chunks       || Finds new chunks based on flowing liquids
 No Strip         || Prevents you from stripping logs
-Number81         || Counts to 81 in chat
-Numby Chat       || Improves your chat experience in various ways
-NumbyRPC         || Displays GumballClient as your presence on Discord
 Ride Stats       || Nametag with information about rideable entities.
 Safe Fire        || Does not allow you to walk into fire sources
 Safety Net       || Places a block under you if your reach a set Y level
@@ -55,7 +46,6 @@ Wurst Glide      || Allows you to glide
 </pre>
 <h2>HUD:</h2>
 <pre>
-81               || Number81 On Top!
 Item Counter     || Counts specific items from your inventory
 Logo             || Displays GumballClient logo on screen
 Key Press HUD    || Displays the key you pressed
@@ -79,4 +69,3 @@ player particle  || Renders particles around specific players
 
 </pre>
 
-*Note: Not all the code was written by me*
