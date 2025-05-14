@@ -1,16 +1,16 @@
 <div align="center">
   <!-- Logo and Title -->
-  <img src="https://raw.githubusercontent.com/cqb13/Numby-hack/main/src/main/resources/assets/numby-hack/textures/icon.png" alt="logo" width="20%"/>
-  <h1>Numby Hack</h1>
+  <img src="https://raw.githubusercontent.com/GumballGardas/Numby-hack/main/src/main/resources/assets/numby-hack/textures/icon.png" alt="logo" width="20%"/>
+  <h1>GumballClient</h1>
   <p>A simple Meteor addon focused on giving users more customization options. Made in honor of Number81.</p>
 
   <!-- Fancy badges -->
-<a href="https://github.com/cqb13/Numby-hack/releases"><img src="https://img.shields.io/badge/Version-v2.2-green" alt="Version"></a>
+<a href="https://github.com/GumballGardas/Numby-hack/releases"><img src="https://img.shields.io/badge/Version-v2.2-green" alt="Version"></a>
 <a href="https://anticope.ml/addons/?"><img src="https://img.shields.io/badge/Verified-Yes!-green" alt="Verified"></a>
 <img src="https://img.shields.io/badge/Minecraft%20Version-1.21-green" alt="Minecraft Version">
-<img src="https://img.shields.io/github/downloads/cqb13/Numby-hack/total?color=green">
-<img src="https://img.shields.io/github/languages/code-size/cqb13/Numby-hack?color=green" alt="Code Size">
-<img src="https://img.shields.io/github/stars/cqb13/Numby-hack?color=green" alt="Stars">
+<img src="https://img.shields.io/github/downloads/GumballGardas/Numby-hack/total?color=green">
+<img src="https://img.shields.io/github/languages/code-size/GumballGardas/Numby-hack?color=green" alt="Code Size">
+<img src="https://img.shields.io/github/stars/GumballGardas/Numby-hack?color=green" alt="Stars">
 
 <p>Join for support<p>
 <a href="https://discord.gg/TtmQs7BzPJ"><img src="https://invidget.switchblade.xyz/TtmQs7BzPJ"></a>
@@ -45,7 +45,7 @@ New Chunks       || Finds new chunks based on flowing liquids
 No Strip         || Prevents you from stripping logs
 Number81         || Counts to 81 in chat
 Numby Chat       || Improves your chat experience in various ways
-NumbyRPC         || Displays Numby Hack as your presence on Discord
+NumbyRPC         || Displays GumballClient as your presence on Discord
 Ride Stats       || Nametag with information about rideable entities.
 Safe Fire        || Does not allow you to walk into fire sources
 Safety Net       || Places a block under you if your reach a set Y level
@@ -57,7 +57,7 @@ Wurst Glide      || Allows you to glide
 <pre>
 81               || Number81 On Top!
 Item Counter     || Counts specific items from your inventory
-Logo             || Displays Numby Hack logo on screen
+Logo             || Displays GumballClient logo on screen
 Key Press HUD    || Displays the key you pressed
 Kills            || Shows the amount of player kills
 Deaths           || Shows the amount of deaths
