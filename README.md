@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Logo and Title -->
-  <img src="textures/icon.png" alt="logo" width="28%"/>
+  <img src="src/main/resources/assets/numby-hack/textures/icon.png" alt="logo" width="28%"/>
   <p>GumballClient is a nice addon(plugin) that adds paid and special modules to Meteor Client. The best part is that it's free and you don't need to delete Meteor Client, so all your settings will not be deleted and remain.Made by GumballGardas</p>
 
 
