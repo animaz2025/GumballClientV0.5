@@ -12,7 +12,7 @@
 <hr />
 
 # How to use
-- Download `GumballClientV0.4.jar` by joining our [Discord server](https://discord.gg/RRcCtwvxY7) or from the [Anticope Meteor Addons](https://anticope.pages.dev/addons/?).
+- Download `GumballClientV0.4.jar` by joining our [Discord server](https://discord.gg/RRcCtwvxY7).
 - Put it in your `.minecraft/mods` folder where you have installed Meteor.
 
 [README.md](README.md)
